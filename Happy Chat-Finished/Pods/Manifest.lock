@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.6.0)
+  - BmobSDK (2.2.8)
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - SVProgressHUD (2.2.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - BmobSDK
+  - ChameleonFramework
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  BmobSDK: 8ee987736c9b766a688ea8e0274ce4748db2255e
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  SVProgressHUD: a5eaeff664a82dda89809c409ace40183ce91523
+
+PODFILE CHECKSUM: da6ebb83c7674d27c155f58d5a9a93813d5e7311
+
+COCOAPODS: 1.4.0
